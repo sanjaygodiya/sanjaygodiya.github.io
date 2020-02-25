@@ -1,1 +1,1 @@
-https://sanjaygodiya.github.io/home/
+https://sanjaygodiya.github.io
