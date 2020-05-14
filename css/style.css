@@ -183,7 +183,8 @@ p+h1,p+h2,p+h3,p+h4,p+h5,p+h4,ul+h1,ul+h2,ul+h3,ul+h4,ul+h5,ul+h4,ol+h1,ol+h2,ol
     margin-top:35px
 }
 ul+p,ul+ul,ul+ol,ol+ol,ol+ul,ul+table,ol+table{
-    margin-top:35px
+    margin-top:35px;
+    margin-left: 15px
 }
 b,strong{
     font-weight:600
