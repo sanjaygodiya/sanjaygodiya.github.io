@@ -16,7 +16,6 @@ h1,h2,h3,h4,h5,h6,p,ul,ol,table{
     margin:0 0 18px
 }
 h1:last-child,h2:last-child,h3:last-child,h4:last-child,h5:last-child,h6:last-child,p:last-child,ul:last-child,ol:last-child,table:last-child{
-    margin-bottom:0;
     margin-right: 15px
 }
 h1,h2,h3,h4,h5,h6 .h1,.h2,.h3,.h4,.h5,.h6{
