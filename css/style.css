@@ -1,6 +1,5 @@
  @import url('https://fonts.googleapis.com/css?family=Advent+Pro:700');
  @import url('https://fonts.googleapis.com/css?family=Barlow+Condensed');
-
  body{
      font-family: 'Barlow Condensed', sans-serif;
     color:#596570;
@@ -5994,7 +5993,8 @@ div[class*='filtered-menu'].style-v2 li:last-child{
         max-height:40px
     }
     .banner-text .page-title,.banner-text.style-modern .page-title{
-        font-size:1.75em
+        font-size:1.75em;
+        margin-left:15px
     }
     .banner-text .lead{
         font-size:1.15em
