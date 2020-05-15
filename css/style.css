@@ -61,6 +61,12 @@ ul,ol{
 ul li,ol li{
     list-style:none
 }
+.logo{
+	float:left;
+	width:40px;
+	height:40px;
+	margin-left:10px
+}
 .lead{
     line-height:1.6
 }
