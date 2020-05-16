@@ -2096,7 +2096,6 @@ form label.error{
 }
 .header-s1 .navbar-nav>li.active>a,.header-s1 .navbar-nav>li.rollover>a,.header-s1 .navbar-nav>li:hover>a,.header-s1 .navbar-nav>li:focus>a,.header-s1 .navbar-nav>li>a:hover,.header-s1 .navbar-nav>li>a:focus{
     color:#fff;
-    background:#FF5326
 }
 .header-s1 .top-nav li a{
     font-size:12px;
